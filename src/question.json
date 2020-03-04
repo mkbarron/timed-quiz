@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the most popular programming language in the world?",
+        "possibleAnswers":
+        [
+            {"text":"JavaScript",
+            "correct":true},
+            {"text":"C++",
+            "correct":false},
+            {"text":"Python",
+            "correct":false},
+            {"text":"Go",
+            "correct":false
+        } 
+     ] 
+    }
+]
